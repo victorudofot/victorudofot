@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @victorudofot
 - 👀 I’m interested in Web Application and sofware Development.
-- 🌱 I’m currently learning fullstack web development and python programming language, studying also as a data scienctist with IBM.
-- 💞️ I’m looking to collaborate on life changing projects  with other developers worldwide and also work remotely fulltime for an Organization.
+- 🌱 I’m a frontend engineer, adept in Javascript, React, HTML5, CSS3, BOOTSTRAP. 
+- 💞️ I’m open to collaborative projects and also full time remote work opportunities. 
 - 📫 How to reach me ...victorudmatt2@gmail.com
 
 <!---
